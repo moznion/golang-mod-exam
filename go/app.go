@@ -1,0 +1,4 @@
+package modexam
+
+func Foo() {
+}
