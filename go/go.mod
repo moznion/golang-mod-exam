@@ -1,3 +1,3 @@
-module github.com/moznion/golang-mod-test/go
+module github.com/moznion/golang-mod-exam/go
 
 go 1.15
